@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605046739849",
+    "project_id": "authujikom",
+    "storage_bucket": "authujikom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605046739849:android:10f50534c5a11d9db54758",
+        "android_client_info": {
+          "package_name": "com.example.hyper_snippet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMbJVCaauihKGD1x0XPZIbrATRxeHOEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
