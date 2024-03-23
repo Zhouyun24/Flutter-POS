@@ -49,13 +49,6 @@ class ProfileView extends StatefulWidget {
                       color: Colors.white,
                     ),
                   ),
-                  Text(
-                    "Role :",
-                    style: TextStyle(
-                      fontSize: 14.0,
-                      color: Colors.white,
-                    ),
-                  ),
                   SizedBox(
                     height: 50.0,
                   ),

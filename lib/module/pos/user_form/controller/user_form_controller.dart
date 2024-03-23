@@ -35,6 +35,6 @@ class UserFormController extends State<UserFormView> {
       ScaffoldMessenger.of(context).showSnackBar(snackBar);
       return;
     }
-    Get.offAll(MainNavigationController());
+    Get.offAll(MainNavigationView());
   }
 }
